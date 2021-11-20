@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "launcher-amis",
   "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "Launcher amis",
+  "description": "Launcheur pour les amis",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) et Ro Mine ",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/Launcher-minecraft/Launcher-Amis",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/Launcher-minecraft/Launcher-Amis/issues"
   },
   "private": true,
   "main": "index.js",
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/Launcher-minecraft/Launcher-Amis.git"
   }
 }
