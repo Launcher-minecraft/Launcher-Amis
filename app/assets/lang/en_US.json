@@ -1,26 +1,26 @@
 {
     "html": {
-        "avatarOverlay": "Edit"
+        "avatarOverlay": "Modifier"
     },
     "js": {
         "login": {
             "error": {
-                "invalidValue": "* Invalid Value",
-                "requiredValue": "* Required",
+                "invalidValue": "* Valeur incorrecte",
+                "requiredValue": "* Requis",
                 "userMigrated": {
-                    "title": "Error During Login:<br>Invalid Credentials",
+                    "title": "Erreur durant la connexion:<br>Identifiants invalides",
                     "desc": "You've attempted to login with a migrated account. Try again using the account email as the username."
                 },
                 "invalidCredentials": {
-                    "title": "Error During Login:<br>Invalid Credentials",
-                    "desc": "The email or password you've entered is incorrect. Please try again."
+                    "title": "Erreur durant la connexion:<br>Identifiants invalides",
+                    "desc": "L'e-mail ou le mot de passe est incorrect. Vueilez réessayer."
                 },
                 "rateLimit": {
-                    "title": "Error During Login:<br>Too Many Attempts",
+                    "title": "Erreur lors de la connexion:<br>Trop de tentative",
                     "desc": "There have been too many login attempts with this account recently. Please try again later."
                 },
                 "noInternet": {
-                    "title": "Error During Login:<br>No Internet Connection",
+                    "title": "Erreur lors de la connexion:<br>Pas de connexion Internet",
                     "desc": "You must be connected to the internet in order to login. Please connect and try again."
                 },
                 "authDown": {
@@ -32,13 +32,13 @@
                     "desc": "The account you are trying to login with has not purchased a copy of Minecraft.<br>You may purchase a copy on <a href=\"https://minecraft.net/\">Minecraft.net</a>"
                 },
                 "unknown": {
-                    "title": "Error During Login:<br>Unknown Error"
+                    "title": "Erreur lors de la connexion:<br>Erreur inconnue"
                 }
             },
-            "login": "LOGIN",
-            "loggingIn": "LOGGING IN",
-            "success": "SUCCESS",
-            "tryAgain": "Try Again"
+            "login": "CONNEXION",
+            "loggingIn": "CONNEXTION EN COURS",
+            "success": "CONNECTé",
+            "tryAgain": "Veuillez réessayer"
         },
         "landing": {
             "launch": {
